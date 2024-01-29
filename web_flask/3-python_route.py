@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-
+"""Falsk application creates several routes
+"""
 from flask import Flask, escape
 
 app = Flask(__name__)
